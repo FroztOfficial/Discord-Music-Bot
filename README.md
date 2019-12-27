@@ -1,4 +1,4 @@
-# Discord-Music-Bot
+# Discord Music Bot
 
 ### Installation of discord.py:
 * Windows:
